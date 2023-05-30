@@ -26,7 +26,6 @@ input{
 section, aside{
     justify-content: center;
     text-align: center;
-    border-style: solid;
     width: 45%;
 }
 
@@ -69,4 +68,36 @@ section, aside{
     display: flex;
     justify-content: baseline;
     text-align: center;
+}
+
+.suporte{
+    text-align: center;
+}
+    
+.suporte2{
+    text-align: center;
+    font-weight: 400;
+    font-size: 13px;
+    border-top: 10px;
+}
+
+.descricao {
+    color: #979797;
+}
+
+.imagem-titulo{
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
+.span{
+    color: #61199A;
+    text-align: center;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 15px;
+    text-decoration-line: underline;
+    color: #61199A;
 }

@@ -101,3 +101,10 @@ section, aside{
     text-decoration-line: underline;
     color: #61199A;
 }
+
+.caixa{
+    margin: 10%;
+    border-style: solid;
+    border-color: black;
+    border-radius: 30px;
+}
